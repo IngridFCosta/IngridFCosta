@@ -18,12 +18,11 @@
     sempre buscando evoluir.</h5>
 
 
-Here are some ideas to get you started:
-
 - 🔭 Ainda não trabalho 
 - 🌱 Atualmente estou estudando Python,Ux e UI,front-end,
 revisando conceitos de Java e aprendendo espanhol.
-- 📫 How to reach me: ...
-- 😄 Pronouns:Ela/Dela
-- ⚡ Fun fact: ...
+- 😄 Pronomes:Ela/Dela
+
+- 📫 Onde me encontrar: 
+
 
