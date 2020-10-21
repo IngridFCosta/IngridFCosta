@@ -22,7 +22,8 @@
 - 🌱 Atualmente estou estudando Python,Ux e UI,front-end,
 revisando conceitos de Java e aprendendo espanhol.
 - 😄 Pronomes:Ela/Dela
-
+<!--
 - 📫 Onde me encontrar: 
 <a href="https://www.linkedin.com/in/ingrid-costa-a43598117/"><img src="https://github.com/IngridFCosta/IngridFCosta/linkedin.png" width="16"></img></a> [Ingrid Costa](https://www.linkedin.com/in/ingrid-costa-a43598117/)
+-->
 
