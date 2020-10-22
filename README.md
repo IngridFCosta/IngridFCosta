@@ -11,7 +11,7 @@
 **IngridFCosta/IngridFCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1>Hello, World!!!</h1>
+<h1>Olá, mundo!!!</h1>
 
 <h5>Sou estudante de ADS e estou me aventurando no mundo da programação desde 2017.
     Sou apaixonada por livros, música, filmes e séries, estou em constante aprendizado e 
@@ -24,6 +24,6 @@ revisando conceitos de Java e aprendendo espanhol.
 - 😄 Pronomes:Ela/Dela
 <!--
 - 📫 Onde me encontrar: 
-<a href="https://www.linkedin.com/in/ingrid-costa-a43598117/"><img src="https://github.com/IngridFCosta/IngridFCosta/linkedin.png" width="16"></img></a> [Ingrid Costa](https://www.linkedin.com/in/ingrid-costa-a43598117/)
+<a href="https://www.linkedin.com/in/ingrid-costa-a43598117/"><img src="linkedin.png" width="16"></img></a> [Ingrid Costa](https://www.linkedin.com/in/ingrid-costa-a43598117/)
 -->
 
