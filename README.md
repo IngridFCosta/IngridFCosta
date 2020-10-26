@@ -23,7 +23,6 @@
 revisando conceitos de Java e aprendendo espanhol.
 - 😄 Pronomes:Ela/Dela
 - 📫 Onde me encontrar:<br>
-    [![Linkedin]("linkedin.png")[Ingrid Costa]("https://www.linkedin.com/in/ingrid-costa-a43598117/")]
-
-
+    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20"></img>
+    <a href="https://www.linkedin.com/in/ingrid-costa-a43598117/">Ingrid Costa</a>
 
