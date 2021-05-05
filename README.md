@@ -19,8 +19,7 @@
 
 
 - 🔭 Ainda não trabalho 
-- 🌱 Atualmente estou estudando Python,Ux e UI,front-end,
-revisando conceitos de Java e aprendendo espanhol.
+- 🌱 Atualmente estou estudando Python,Ux e UI,front-end, aprendendo JavaScript e espanhol.
 - 😄 Pronomes:Ela/Dela
 - 📫 Onde me encontrar:<br>
 
