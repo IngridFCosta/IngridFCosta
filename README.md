@@ -13,7 +13,7 @@
 
 <h1>Olá, mundo!!!</h1>
 
-<h5>Sou estudante de ADS e estou me aventurando no mundo da programação desde 2017.
+<h5>Sou estudante de ADS e estou me aventurando no mundo da programação.
     Sou apaixonada por livros, música, filmes e séries, estou em constante aprendizado e 
     sempre buscando evoluir.</h5>
 
