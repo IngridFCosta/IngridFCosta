@@ -28,5 +28,5 @@
        <a href="https://www.linkedin.com/in/ingrid-costa-a43598117/">Ingrid Costa</a>
     </p>
   <div>
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/IngridFCosta/IngridFCosta/blob/output/github-contribution-grid-snake.svg)
     </div>
